@@ -1,7 +1,9 @@
-package com.java.cucumber;
+package com.java.feature;
+
+
 
 public class Demo1 {
 	int a;
-	
+	int b;
 
 }
