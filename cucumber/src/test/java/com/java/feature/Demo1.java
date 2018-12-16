@@ -6,6 +6,5 @@ public class Demo1 {
 	int a;
 	int b;
 	// first push from master
-		// creating 1stbranch
-	// write code in  1st branch
+	// 2nd branch created
 }
