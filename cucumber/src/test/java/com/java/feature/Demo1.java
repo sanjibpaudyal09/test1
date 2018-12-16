@@ -5,12 +5,6 @@ package com.java.feature;
 public class Demo1 {
 	int a;
 	int b;
-// push from intelii
-	// second commit
-	// master
-	// master branch
-// branch created
-    //2nd created
-	//rrrjkj
-    //gukhhh
+	// first push from master
+
 }
