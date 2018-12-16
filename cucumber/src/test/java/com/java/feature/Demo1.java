@@ -7,4 +7,5 @@ public class Demo1 {
 	int b;
 	// first push from master
 	// 2nd branch created
+	// merge 1 n 2
 }
