@@ -2,7 +2,8 @@ package com.java.feature;
 
 
 
-only master
+//only local and push
+
 public class Demo1 {
 	int a;
 	int b;
