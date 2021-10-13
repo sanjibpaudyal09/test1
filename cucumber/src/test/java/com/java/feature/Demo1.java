@@ -1,7 +1,7 @@
 package com.java.feature;
 
 
-
+//only local
 public class Demo1 {
 	int a;
 	int b;
