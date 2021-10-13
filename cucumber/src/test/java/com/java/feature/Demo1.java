@@ -1,7 +1,9 @@
 package com.java.feature;
 
 
+
 //only local and push
+
 public class Demo1 {
 	int a;
 	int b;
